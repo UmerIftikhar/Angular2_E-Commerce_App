@@ -1,5 +1,5 @@
-# Angular2_E-Commerce_App
-#Angular 2 Complement -E-Commerce App - Java, Spring, MySQL
+# Angular4_E-Commerce_App
+#Angular 4 -E-Commerce App - Java, Spring, MySQL
 ## Regarding the Application, the modules being developed in the Application are similar for all E-Commerce website. Those modules contains:
 
 - User Signup and Login
