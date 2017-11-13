@@ -9,4 +9,3 @@
 - Order checkout and order history
 - Automatic email confirmation
 
-![alt text](https://www.google.fi/search?q=images&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiUlfSgk7zXAhXkDZoKHb7HDcMQ_AUICigB&biw=1536&bih=779#imgrc=lAHthDF3S1ACoM:)
