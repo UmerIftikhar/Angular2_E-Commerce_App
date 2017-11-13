@@ -9,4 +9,4 @@
 - Order checkout and order history
 - Automatic email confirmation
 
-![CLASS DIAGRAM](ClassDiagram.jpg?raw=true "Class Diagram")
+![CLASS DIAGRAM](ClassDiagram.PNG?raw=true "Class Diagram")
